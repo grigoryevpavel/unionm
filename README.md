@@ -4,6 +4,4 @@ Features of the new server:
 2. Decorate schemas
 3. Routing authorization requests to subgraphs
 ## Installation rules:
-'''
-npm i unionm-graphserver --save-dev
-'''
+''' npm i unionm-graphserver --save-dev '''
