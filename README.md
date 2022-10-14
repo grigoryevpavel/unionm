@@ -5,5 +5,5 @@ Features of the new server:
 3. Routing authorization requests to subgraphs
 ## Installation rules:
 ```
-npm i unionm-graphserver --save-dev
+npm i @grigoryevpavel/unionm --save-dev
 ```
